@@ -36,9 +36,11 @@ Modifier
 cyber-scope/
 ├── main.py                # Main execution script
 ├── report_generator.py    # PDF generation
-├── scan_utils.py          # Port scan, whois, DNS utils
-├── virustotal_api.py      # VirusTotal lookup
+├── scanner.py             # Port scan
+├── virus_total.py         # VirusTotal lookup
 ├── shodan_api.py          # Shodan data fetch
+├── who_is.py              # whois
+├── who_is.py              # whois
 ├── .env                   # Contains API keys (DO NOT SHARE)
 └── README.md              # This file
 🔐 Environment Setup
@@ -65,4 +67,4 @@ python main.py
 Shodan integration is currently not working due to issues with the free API or network restrictions. All other features (VirusTotal, WHOIS, port scanning) work properly.
 
 🧪 Coming Soon
-A front-end interface is planned to make the tool more user-friendly and accessible.
+A front-end interface  is planned to make the tool more user-friendly and accessible.

@@ -1,0 +1,8 @@
+.env
+report_google_com.pdf
+__pycache__/report_generator.cpython-313.pyc
+__pycache__/scanner.cpython-313.pyc
+__pycache__/shodan_api.cpython-313.pyc
+__pycache__/utils.cpython-313.pyc
+__pycache__/virus_total.cpython-313.pyc
+__pycache__/who_is.cpython-313.pyc

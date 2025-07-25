@@ -36,18 +36,12 @@ cyber-scope/
 ├── main.py                # Main execution script
 ├── utils.py               # Resolve domain
 ├── report_generator.py    # PDF generation
-├── scanner.py             # Port scan<<<<<<< HEAD
 ├── scanner.py             # Port scan logic
 ├── virus_total.py         # VirusTotal lookup
 ├── shodan_api.py          # Shodan data fetch
 ├── who_is.py              # WHOIS lookup
-=======
-├── scanner.py             # Port scan
-├── virus_total.py         # VirusTotal lookup
-├── shodan_api.py          # Shodan data fetch
-├── who_is.py              # whois
-├── who_is.py              # whois
->>>>>>> 9d927df21966b4fee72343ce814a82310d388fbd
+
+
 ├── .env                   # Contains API keys (DO NOT SHARE)
 └── README.md              # This file
 ```
